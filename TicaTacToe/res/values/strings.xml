@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, tictactoe!</string>
+    <string name="app_name">TicTacToe</string>
+    <string name="starLabel">Start Game</string>
+    <string name="continueLabel">Continue</string>
+    <string name="exitLabel">Exit Game</string>
+     <string name="menuLabel">Menu</string>
+    
+    <string name="aiFirstLabel">AI first step</string>
+    <string name="userFirstLabel">User first step</string>
+    <string name="whosFirstLabel">Who will be first</string>
+    <string name="youLabel">YOU</string>
+    <string name="aiLabel">AI</string>
+    
+</resources>
